@@ -2,7 +2,7 @@
 layout: page
 permalink: /vip/
 ---
-# Love, Hebden
+# Love, Hebden xx
 
 <img alt="love, Hebden xx" src="/images/love-Hebden-card.png" class='righty flush-align-top'>
 This is the list of businesses participating in the 'love, Hebden xx'
