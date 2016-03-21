@@ -1,0 +1,8 @@
+.biz-list {
+  // table-layout: fixed;
+  border-collapse: collapse;
+  th, td { border: 1px solid black; padding: 5px; }
+  th { width: 200px; vertical-align: bottom; }
+  td { vertical-align: top; }
+  .offer { width: 100px; text-align: center; }
+}

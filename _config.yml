@@ -1,0 +1,43 @@
+inc:
+  # Blog Information
+  title:        "Hebden Bridge Business Forum"
+  subtitle:     "Promoting local business"
+  cover_image:  blog-cover.jpg
+  logo:         hbbf-site-logo.png
+  icon:         hbbf-logo.png
+
+  # Company information
+  company:      Hebden Bridge Business Forum
+  url:          http://hebden.biz/
+  facebook:     hebdenbridgebusinessforum
+  twitter:      hbbusinessforum
+  # gplus:        '101183822199340201470'
+  about_link:   about
+
+  # Comments
+  disqus:
+    # Eg. "exampleblog" Set to false to disable comments
+    shortname:  false
+
+  # Sharing settings
+  sharing:
+    twitter:    true
+    facebook:   true
+    gplus:      false
+    hn:         false
+
+
+ # Analytics
+  analytics:
+    google: false # Add tracking code in _includes/_google-analytics.html
+
+
+  # Google Fonts
+  # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
+  google_font: 'Droid+Sans:400,700'
+
+  # Setup your fonts, colors etc at _assets/stylesheets/main.scss
+
+url:         http://hebden.biz
+
+markdown:      kramdown
